@@ -1,0 +1,22 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "I am a cat",
+  "main": "HelloWord.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iris1314/template.git"
+  },
+  "dependencies": {
+    "bootstrap": "",
+    "jquery": "^2.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node HelloWord.js"
+  },
+  "keywords": [],
+  "author": "iris",
+  "license": "ISC"
+}
