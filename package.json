@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bootstrap": "",
-    "jquery": "^2.2.4"
+    "jquery": "^3.4.0"
   },
   "devDependencies": {},
   "scripts": {
